@@ -1,0 +1,9 @@
+genel resim ebatları : 
+409*260 tumbnail
+94*73 mini
+285*250
+280*230 aşağıdaki büyük haber kısmı
+750*354
+
+current-menu-item current_page_item
+
